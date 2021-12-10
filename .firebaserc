@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "shopping-cart-tul-e538c": {
+      "hosting": {
+        "shopping-cart-tul": [
+          "shopping-cart-tul-e538c"
+        ]
+      }
+    }
+  }
+}
